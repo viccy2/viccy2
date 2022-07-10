@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏾 I'm a task and problem solving, creative developer, I'm passionately driven towards collaborating and seeking out new learning opportunities.<br>I deliver quality and amazing softwares, applications solutions, with high and proficient skills required.<br><br>🌐 My portfolio :  (https://dev-vad.netlify.app/)<br><br>😎 Pronouns :  He / Him / His<br><br>⚡ Fun fact :  My favorite quote is “I could either watch it happen or be a part of it. - Elon Musk”<br><br><br>
+🙋🏾 I'm a task and problem solving, creative developer, I'm passionately driven towards collaborating and seeking out new learning opportunities.<br>I deliver quality and amazing softwares, applications, solutions, with high and proficient skills required.<br><br>🌐 My portfolio :  (https://dev-vad.netlify.app/)<br><br>😎 Pronouns :  He / Him / His<br><br>⚡ Fun fact :  My favorite quote is “I could either watch it happen or be a part of it." - Elon Musk<br><br><br>
 
 
 ## 🌐 Socials:
