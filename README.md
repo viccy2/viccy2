@@ -2,7 +2,7 @@
 Experienced Software Developer with expertise in Full-Stack Development, Web Technologies, and Agile Methodologies.<br>
 🌐 See my portfolio at (https://dev-vad.netlify.app/)<br>
 😎 Pronouns :  He / Him / His<br>
-⚡ <br>
+⚡ Currently building @FuoyeMarket. <br>
 
 
 ## 🌐 Socials:
