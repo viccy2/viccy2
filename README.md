@@ -1,6 +1,5 @@
 # 💫 Hello! I'm Victor Aremu David.
----
-Experienced Software Developer with expertise in Full-Stack Development, Web Technologies, and Agile Methodologies.<br>
+Experienced Software Developer with 5+ years of experience and a passion for creating innovative solutions.<br> I have experience in both front-end and back-end development, with a strong understanding of software architecture and development methodologies.<br><br>
 😎 Pronouns :  He / Him / His<br>
 🌐 View my portfolio at https://dev-vad.netlify.app/ <br>
 ✉️  You can contact me at vad.inc8@gmail.com<br>
