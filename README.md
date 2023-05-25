@@ -1,8 +1,8 @@
 # 💫 Hello! I'm Victor Aremu David.
-🙋🏾  Experienced Software Developer with expertise in Full-Stack Development, Web Technologies, and Agile Methodologies.<br>I deliver quality and amazing softwares, applications, solutions, with high and proficient skills required.
-<br>
-🌐 My portfolio :  (https://dev-vad.netlify.app/)<br>
-😎 Pronouns :  He / Him / His<br><br>⚡ Fun fact :  My favorite quote is “I could either watch it happen or be a part of it." - Elon Musk<br><br><br>
+Experienced Software Developer with expertise in Full-Stack Development, Web Technologies, and Agile Methodologies.<br>
+🌐 See my portfolio at (https://dev-vad.netlify.app/)<br>
+😎 Pronouns :  He / Him / His<br>
+⚡ <br>
 
 
 ## 🌐 Socials:
