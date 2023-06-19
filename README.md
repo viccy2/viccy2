@@ -1,7 +1,7 @@
 # 💫 Hello! I'm Victor Aremu David.
-Experienced Software Developer with 5+ years of experience and a passion for creating innovative solutions.<br> I have experience in both front-end and back-end development, with a strong understanding of software architecture and development methodologies.<br><br>
+Software Developer adept at creative problem-solving, web technologies & agile methodologies.<br> I have experience in both front-end and back-end development, with a strong understanding of software architecture and development methodologies.<br><br>
 😎 Pronouns :  He / Him / His<br>
-🌐 View my portfolio at https://dev-vad.netlify.app/ <br>
+🌐 View my portfolio at https://dev-vaad.netlify.app/ <br>
 ✉️  You can contact me at vad.inc8@gmail.com<br>
 🚀Currently building @FuoyeMarket. <br><br>
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor.david_vad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VAD_INC01) 
