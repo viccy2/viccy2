@@ -1,5 +1,5 @@
 # 💫 Hello! I'm Victor Aremu David.
-Software Developer adept at creative problem-solving, web technologies & agile methodologies.<br> I have experience in both front-end and back-end development, with a strong understanding of software architecture and development methodologies.<br><br>
+Results-driven Software Engineer with expertise in software development and engineering, specializing in a broad range of programming languages, frameworks, and technologies.<br>I excel at developing scalable, high-performance solutions and staying at the forefront of industry trends.<br><br>
 😎 Pronouns :  He / Him / His<br>
 🌐 View my portfolio at https://dev-vaad.netlify.app/ <br>
 ✉️  You can contact me at vad.inc8@gmail.com<br>
