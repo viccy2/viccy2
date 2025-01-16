@@ -1,7 +1,7 @@
 # 💫 Hello! I'm Victor Aremu David.
-Results-driven Software Engineer with expertise in software development and engineering, specializing in a broad range of programming languages, frameworks, and technologies.<br>I excel at developing scalable, high-performance solutions and staying at the forefront of industry trends.<br><br>
+Results-driven Software Engineer with expertise developing scalable backend systems (API services, stream processes and async mechanisms), and building high-performance software applications.<br><br>
 😎 Pronouns :  He / Him / His<br>
-🌐 View my portfolio at https://dev-vaad.netlify.app/ <br>
+🌐 View my portfolio at https://vad-folio.vercel.app/ <br>
 ✉️  You can contact me at vad.inc8@gmail.com<br>
 🚀Currently building @FuoyeMarket. <br><br>
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victor.david_vad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VAD_INC01) 
