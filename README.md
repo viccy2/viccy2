@@ -1,5 +1,5 @@
 Aremu Victor David<br>
-Software Engineering | Backend &
+Software Engineer | Backend &
 Full Stack Developmemt.
 
 I’m a results-driven and problem-solving Software Engineer, with professional experience in designing and building scalable & efficient backend systems, implementing robust architectures & building high performance applications.
