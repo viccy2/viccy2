@@ -1,5 +1,5 @@
 Software Engineer specializing in Distributed Systems & Reliability.<br>
-Currently building high-availability backend services with Python and Node.js. Passionate about latency optimization, CI/CD automation, and production-grade ML integration.<br>
+Currently building high-availability backend services with Python and TypeScript/Node.js. Passionate about latency optimization, CI/CD automation, and production-grade ML integration.<br>
 <b>
 99.9% Uptime | 10k+ QPS | Cloud-Native Infrastructure
 </b>
