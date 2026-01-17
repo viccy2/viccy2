@@ -1,5 +1,5 @@
 <b>Software Engineer | Backend Architecture & Distributed Systems.</b> <br><br>
-Currently building high-availability backend services with Python and TypeScript/Node.js. Passionate about latency optimization, CI/CD automation, and production-grade ML integration.<br><br>
+Currently building high-availability backend services with Python, Go, TypeScript, Node.js. Passionate about latency optimization, CI/CD automation, and production-grade ML integration.<br><br>
 <b>
 99.9% Uptime | 10k+ QPS | Cloud-Native Infrastructure
 </b>
