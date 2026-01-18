@@ -1,9 +1,7 @@
-# Victor Aremu 👋
+# Victor Aremu David 👋
 ### Senior Backend & Distributed Systems Engineer | Python • TypeScript • Go • Kubernetes • Cloud Infrastructure
 
 I specialize in building resilient, high-throughput backend architectures and MLOps pipelines. My focus is on optimizing distributed systems for performance, scalability, and 99.9% availability.
-
-[attachment_0](attachment)
 
 ---
 
@@ -40,17 +38,11 @@ A distributed system that offloads ML inference to background workers, ensuring 
 
 ---
 
-## 📊 GitHub Metrics & Activity
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viccy2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viccy2&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/vaad](https://www.linkedin.com/in/vaad)
 - **Portfolio:** [vad-folio.vercel.app](https://vad-folio.vercel.app/)
 - **Email:** [aremuvictor2016@gmail.com](mailto:aremuvictor2016@gmail.com)
 
 *"Engineering isn't just about writing code; it's about designing systems that can survive the real world."*
-* "System design is the art of choosing the right trade-offs to ensure reliability under pressure.
-" *
+*"System design is the art of choosing the right trade-offs to ensure reliability under pressure.
+"*
