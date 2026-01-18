@@ -43,6 +43,6 @@ A distributed system that offloads ML inference to background workers, ensuring 
 - **Portfolio:** [vad-folio.vercel.app](https://vad-folio.vercel.app/)
 - **Email:** [aremuvictor2016@gmail.com](mailto:aremuvictor2016@gmail.com)
 
-*"Engineering isn't just about writing code; it's about designing systems that can survive the real world."*
+*"Engineering isn't just about writing code; it's about designing systems that can survive the real world."* <br>
 *"System design is the art of choosing the right trade-offs to ensure reliability under pressure.
 "*
