@@ -1,5 +1,5 @@
 # Victor Aremu David 👋
-### Senior Backend & Distributed Systems Engineer | Python • TypeScript • Go • Kubernetes • Cloud Infrastructure
+### Backend & Distributed Systems Engineer | Python • TypeScript • Go • Kubernetes • Cloud Infrastructure
 
 I specialize in building resilient, high-throughput backend architectures and MLOps pipelines. My focus is on optimizing distributed systems for performance, scalability, and 99.9% availability.
 
