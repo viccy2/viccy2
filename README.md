@@ -6,10 +6,14 @@ I specialize in building resilient, high-throughput backend architectures and ML
 ---
 
 ## 🚀 Impact at a Glance
-- **High-Scale Systems:** Architected a YOLO-based ML compliance engine handling **10,000+ daily evaluations** with horizontal autoscaling.
-- **Performance Optimization:** Reduced API latency by **30%** and minimized timeouts by **60%** through distributed task queuing (BullMQ/Redis).
-- **Observability:** Halved debugging time (**50% reduction**) by implementing structured logging and Prometheus-based alerting.
-- **Infrastructure:** Expert in container orchestration (Kubernetes) and automating CI/CD pipelines to increase team velocity by **40%**.
+
+* **Large-Scale ML Orchestration**: Architected a **YOLO-based CV engine** processing **10k+ daily evaluations**; implemented Horizontal Pod Autoscaling (HPA) to maintain **99.9% uptime** during 40% traffic surges.
+* **System Reliability & Throughput**: Engineered a distributed task queuing architecture (**BullMQ/Redis**) that reduced API timeouts by **60%** and increased system throughput by **50%** for 10k+ DAU.
+* **Platform Engineering & Velocity**: Accelerated time-to-market by **40%** by standardizing infrastructure via **Terraform (IaC)** and automating CI/CD pipelines, eliminating configuration drift across 12+ microservices.
+* **Operational Excellence**: Reduced MTTR by **50%** through a full-stack observability suite (**Prometheus/Grafana**) and structured logging for proactive anomaly detection.
+* **Architectural Migration**: Spearheaded a **zero-downtime** monolith-to-microservices migration using API Gateway patterns, resulting in a **30% reduction** in end-to-end latency.
+
+---
 
 ---
 
