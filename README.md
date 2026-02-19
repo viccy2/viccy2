@@ -11,12 +11,12 @@ I specialize in building resilient, high-throughput backend architectures and ML
 | :--- | :--- |
 | **Languages & Frameworks** | Python (FastAPI, Flask), TypeScript (Node.js), Go, SQL, PHP |
 | **DevOps & Cloud** | AWS, GCP, Kubernetes (K8s), Docker, Terraform (IaC), GitHub Actions, Jenkins, Prometheus, Grafana. |
-| **Data & Storage ** | PostgreSQL, MySQL, Redis, MongoDB, BullMQ.|
+| **Data & Storage** | PostgreSQL, MySQL, Redis, MongoDB, BullMQ.|
 | **Systems & Architecture** | Distributed Systems, Microservices, Event-Driven (Kafka, RabbitMQ, Redis Pub/Sub), REST/GraphQL, WebSockets, Idempotency Patterns. |
 
 ---
 
-## 🔬 Featured Engineering Labs
+## Selected Projects
 
 #### 🚀 [Go Task CLI](https://github.com/viccy2/go-task-cli)
 **A high-performance Task Management Engine built with Go.**
