@@ -30,15 +30,22 @@ I specialize in building resilient, high-throughput backend architectures and ML
 
 ## 🔬 Featured Engineering Labs
 
-### 📂 [Distributed Real-Time Messaging]
-*Focus: Concurrency & State Management*
-Implemented a stateless WebSocket architecture using Redis Pub/Sub to allow horizontal scaling across multiple nodes.
-> **Key Challenge:** Solving the "Stateful WebSocket" problem for cross-server communication.
+#### 🚀 [Go Task CLI](https://github.com/viccy2/go-task-cli)
+**A high-performance Task Management Engine built with Go.**
+* **The Tech:** Go (Golang), JSON Persistence, GitHub Actions (CI/CD).
+* **The Goal:** Mastering backend logic and automated distribution.
+* **Status:** ✅ Fully Automated Build Pipeline.
+> "A zero-dependency CLI tool that manages tasks via a custom-built JSON storage engine."
 
 ### 📂 [FinTrack: AI Financial Intelligence
 *Focus: MLOps & Async Processing*
 A distributed system that offloads ML inference to background workers, ensuring P99 latency remains under 150ms.
 > **Key Challenge:** Maintaining ACID compliance while processing high-volume unstructured data.
+
+### 📂 [Distributed Real-Time Messaging]
+*Focus: Concurrency & State Management*
+Implemented a stateless WebSocket architecture using Redis Pub/Sub to allow horizontal scaling across multiple nodes.
+> **Key Challenge:** Solving the "Stateful WebSocket" problem for cross-server communication.
 
 ---
 
