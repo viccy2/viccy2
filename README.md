@@ -27,7 +27,7 @@ Software Engineer specializing in building resilient, end-to-end applications wi
 
 ### 📂 [FinTrack: AI-based Finance Tracker Backend. (MVP)
 *Focus: MLOps & Async Processing*
-A distributed system that offloads ML inference to background workers, ensuring P99 latency remains under 150ms.
+Software system that allows users to upload financial documents (PDFs/Docs), automatically extracts transaction data using AI, and provides insights on how to minimize expenses.
 > **Key Challenge:** Maintaining ACID compliance while processing high-volume unstructured data.
 
 ### 📂 [Distributed Real-Time Messaging]
@@ -42,6 +42,4 @@ Implemented a stateless WebSocket architecture using Redis Pub/Sub to allow hori
 - **Portfolio:** [vad-folio.vercel.app](https://vad-folio.vercel.app/)
 - **Email:** [aremuvictor2016@gmail.com](mailto:aremuvictor2016@gmail.com)
 
-*"Engineering isn't just about writing code; it's about designing systems that can survive the real world."* <br>
-*"System design is the art of choosing the right trade-offs to ensure reliability under pressure.
-"*
+*"Engineering isn't just about writing code; it's about designing systems that can survive the real world."* 
