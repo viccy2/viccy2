@@ -25,7 +25,7 @@ Software Engineer specializing in building resilient, end-to-end applications wi
 * **Status:** ✅ Fully Automated Build Pipeline.
 > "A zero-dependency CLI tool that manages tasks via a custom-built JSON storage engine."
 
-### 📂 [FinTrack: AI Financial Intelligence
+### 📂 [FinTrack: AI-based Finance Tracker Backend. (MVP)
 *Focus: MLOps & Async Processing*
 A distributed system that offloads ML inference to background workers, ensuring P99 latency remains under 150ms.
 > **Key Challenge:** Maintaining ACID compliance while processing high-volume unstructured data.
