@@ -1,5 +1,5 @@
 # Victor Aremu David 👋
-### Software Engineer | Backend & Distributed Systems| Python • Go • Typescript • CI/CD • Cloud Infrastructure • AI/ML .
+### Software Engineer | Backend & Distributed Systems | • Python • Go • Typescript • CI/CD • Cloud Infrastructure • AI/ML .
 
 Software Engineer specializing in building resilient, end-to-end applications with a focus on high-performance backend architecture and distributed systems. 
 
