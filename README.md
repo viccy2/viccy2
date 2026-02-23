@@ -26,7 +26,6 @@ Software Engineer specializing in building resilient, end-to-end applications wi
 > "A zero-dependency CLI tool that manages tasks via a custom-built JSON storage engine."
 
 ### 📂 [FinTrack: AI-based Finance Tracker Backend. (MVP)
-*Focus: MLOps & Async Processing*
 Software system that allows users to upload financial documents (PDFs/Docs), automatically extracts transaction data using AI, and provides insights on how to minimize expenses.
 > **Key Challenge:** Maintaining ACID compliance while processing high-volume unstructured data.
 
