@@ -18,6 +18,42 @@ Software Engineer specializing in building resilient, end-to-end applications wi
 
 ## Selected Projects
 
+### 🚀 Say-It
+(https://say-it-frontend.vercel.app)
+A universal language learning PWA built to translate and pronounce any character, word, or symbol.
+
+**The Tech:** Vue 3, Vite, Node.js (TypeScript), Express, MongoDB, Vercel, PWA.  
+**The Goal:** Engineering a data pipeline capable of 100% fidelity for any Unicode or symbolic input.  
+**Status:** ✅ Production-Ready with Optimized CORS & Global Middleware.
+
+> "A robust powerful PWA that lets you paste text in any language—including symbol-based writing systems—to instantly get English meanings, language detection, and audio pronunciations."
+
+---
+
+### **Key Technical Implementations**
+
+* **Universal Data Fidelity:** Engineered to process high-complexity inputs—including mathematical symbols, logical notation, and diverse global writing systems—ensuring nothing is lost in translation.
+* **Production-Grade Security & Persistence:** Features a hardened middleware stack with custom **CORS** logic for secure communication between the **Vue/Vite** frontend and the **MongoDB** history tracking system.
+
+---
+
+### **Core Features**
+
+* **Any Language, Any Symbol:** Paste anything from European text to complex character-based languages and symbols to see what they mean.
+* **Instant Audio:** Hear the correct pronunciation of any word or phrase immediately.
+* **Smart History:** Automatically saves your searches so you can review and practice words you’ve looked up previously.
+* **Installable PWA:** Works like a native app on your phone; just add it to your home screen for quick access to learning.
+
+
+---
+
+### **Key Technical Implementations**
+
+* **Universal Encoding:** Engineered to process high-complexity data—including mathematical symbols, logical notation, and non-Latin scripts—ensuring 100% data fidelity across the entire pipeline.
+* **Production-Grade Security:** Implemented a hardened middleware stack featuring **Helmet** and custom **CORS** logic to manage secure, authenticated communication between the Vite frontend and Vercel-hosted backend.
+
+---
+
 #### 🚀 [Go Task CLI](https://github.com/viccy2/go-task-cli)
 **A high-performance Task Management Engine built with Go.**
 * **The Tech:** Go (Golang), JSON Persistence, GitHub Actions (CI/CD).
