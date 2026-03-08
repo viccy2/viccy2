@@ -30,30 +30,6 @@ A universal language learning PWA built to translate and pronounce any character
 
 ---
 
-### **Key Technical Implementations**
-
-* **Universal Data Fidelity:** Engineered to process high-complexity inputs—including mathematical symbols, logical notation, and diverse global writing systems—ensuring nothing is lost in translation.
-* **Production-Grade Security & Persistence:** Features a hardened middleware stack with custom **CORS** logic for secure communication between the **Vue/Vite** frontend and the **MongoDB** history tracking system.
-
----
-
-### **Core Features**
-
-* **Any Language, Any Symbol:** Paste anything from European text to complex character-based languages and symbols to see what they mean.
-* **Instant Audio:** Hear the correct pronunciation of any word or phrase immediately.
-* **Smart History:** Automatically saves your searches so you can review and practice words you’ve looked up previously.
-* **Installable PWA:** Works like a native app on your phone; just add it to your home screen for quick access to learning.
-
-
----
-
-### **Key Technical Implementations**
-
-* **Universal Encoding:** Engineered to process high-complexity data—including mathematical symbols, logical notation, and non-Latin scripts—ensuring 100% data fidelity across the entire pipeline.
-* **Production-Grade Security:** Implemented a hardened middleware stack featuring **Helmet** and custom **CORS** logic to manage secure, authenticated communication between the Vite frontend and Vercel-hosted backend.
-
----
-
 #### 🚀 [Go Task CLI](https://github.com/viccy2/go-task-cli)
 **A high-performance Task Management Engine built with Go.**
 * **The Tech:** Go (Golang), JSON Persistence, GitHub Actions (CI/CD).
