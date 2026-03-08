@@ -18,8 +18,8 @@ Software Engineer specializing in building resilient, end-to-end applications wi
 
 ## Selected Projects
 
-#### 🚀 [SayIt]((https://say-it-frontend.vercel.app/) )
-**A universal language learning PWA built to translate and pronounce any character, word, or symbol.**
+### 🚀 [SayIt](https://say-it-frontend.vercel.app/)
+**A universal language learning app built to translate and pronounce any character, word, or symbol.**
 
 **The Tech:** Vue 3, Vite, Node.js (TypeScript), Express, MongoDB, Vercel, PWA.  
 **The Goal:** Engineering a data pipeline capable of 100% fidelity for any Unicode or symbolic input.  
