@@ -16,18 +16,19 @@ With a (B.Eng) in Computer Engineering and a career dedicated to engineering res
 
 ---
 
-## Selected Projects
+## Selected
 
 ### 📈 [Fintrack](https://fin-track-tau-one.vercel.app/)
 **A high-performance financial tracking PWA designed for deep statement analysis and expense management.**
 
-**The Tech:** Vue 3, Vuetify, Node.js, TypeScript, Prisma, MongoDB, Vite, PWA.  
-**The Goal:** Leveraging Prisma with MongoDB to build a type-safe financial engine capable of handling complex statement schemas.  
+**The Tech:** Vue 3, Vuetify, Node.js, TypeScript, Prisma, MongoDB, Vite, PWA, GitHub Actions, Vercel.  
+**The Goal:** Engineering a polyglot-ready architecture with a fully automated CI/CD pipeline for rapid, zero-downtime deployments.  
 **Status:** ✅ Production-Ready with Advanced iOS PWA Integration.
 
 > "A sleek, privacy-focused financial tool that transforms raw expense data into actionable insights through high-fidelity visualizations and automated statement tracking."
 
 ---
+
 
 ### 🚀 [SayIt](https://say-it-frontend.vercel.app/)
 **A universal language learning app built to translate and pronounce any character, word, or symbol.**
