@@ -18,7 +18,7 @@ With a (B.Eng) in Computer Engineering and a career dedicated to engineering res
 
 ## Selected Projects
 
-### 📈 [Fintrack](https://fintrack-app.vercel.app/)
+### 📈 [Fintrack](https://fin-track-tau-one.vercel.app/)
 **A high-performance financial tracking PWA designed for deep statement analysis and expense management.**
 
 **The Tech:** Vue 3, Vuetify, Node.js, TypeScript, Prisma, MongoDB, Vite, PWA.  
