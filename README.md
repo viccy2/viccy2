@@ -21,7 +21,7 @@ With a (B.Eng) in Computer Engineering and a career dedicated to engineering res
 ### 📈 [Fintrack](https://fin-track-tau-one.vercel.app/)
 **A high-performance financial tracking PWA designed for deep statement analysis and expense management.**
 
-**The Tech:** Vue 3, Vuetify, Node.js, TypeScript, Prisma, MongoDB, Vite, PWA, GitHub Actions, Vercel.  
+**The Tech:** Vue 3, Vuetify, Node.js, TypeScript, Prisma, MongoDB, PostgreSQL, Vite, PWA, GitHub Actions, Vercel.  
 **The Goal:** Engineering a polyglot-ready architecture with a fully automated CI/CD pipeline for rapid, zero-downtime deployments.  
 **Status:** ✅ Production-Ready with Advanced iOS PWA Integration.
 
