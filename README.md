@@ -1,7 +1,9 @@
 # Victor Aremu David 👋
 ### Software Engineer | Backend & Distributed Systems.
 
-With a (B.Eng) in Computer Engineering and a career dedicated to engineering resilient, end-to-end applications, a Software Engineer specialized in high-performance backend architecture and distributed systems. Skilled in languages like Python, Go, and TypeScript, and proficient with infrastructure technologies such as CI/CD, Cloud Infrastructure, and AI/ML. Focused on creating scalable, efficient, and secure software solutions across complex technical ecosystems
+Software Engineer focused on architecting and building resilient, scalable backend systems and distributed architectures.
+
+Skilled in languages like Python, Go, and TypeScript, and proficient with infrastructure technologies such as CI/CD, Cloud Infrastructure, and AI/ML. Focused on creating scalable, efficient, and secure software solutions across complex technical ecosystems
 
 ---
 
