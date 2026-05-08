@@ -1,69 +1,153 @@
-# Victor Aremu David 👋
-### Software Engineer | Backend & Distributed Systems.
+# Victor Aremu David
 
-Software Engineer focused on architecting and building resilient, scalable backend systems and distributed architectures.
+### Software Engineer | Distributed Systems & Backend Architecture
 
-Skilled in languages like Python, Go, and TypeScript, and proficient with infrastructure technologies such as CI/CD, Cloud Infrastructure, and AI/ML. Focused on creating scalable, efficient, and secure software solutions across complex technical ecosystems
+Software engineer focused on designing and building scalable backend systems, distributed architectures, and production infrastructure.
 
----
+Experienced in developing high-throughput systems, including inference pipelines processing 10k+ daily evaluations and backend services supporting 10k+ DAU with zero-downtime deployment strategies.
 
-## 🛠️ Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages & Frameworks** | Python (FastAPI, Flask), TypeScript (Node.js), Go, SQL, PHP |
-| **DevOps & Cloud** | AWS, GCP, Kubernetes (K8s), Docker, Terraform (IaC), GitHub Actions, Jenkins, Prometheus, Grafana. |
-| **Data & Storage** | PostgreSQL, MySQL, Redis, MongoDB, BullMQ.|
-| **Systems & Architecture** | Distributed Systems, Microservices, Event-Driven (Kafka, RabbitMQ, Redis Pub/Sub), REST/GraphQL, WebSockets, Idempotency Patterns. |
+Strong background in distributed systems design, event-driven architectures, system reliability, asynchronous processing, infrastructure automation, observability, and performance optimization using Go, TypeScript, and Python.
 
 ---
 
-## Selected
+## Core Engineering Areas
 
-### 📈 [Fintrack](https://fin-track-tau-one.vercel.app/)
-**A high-performance financial tracking PWA designed for deep statement analysis and expense management.**
-
-**The Tech:** Vue 3, Vuetify, Node.js, TypeScript, Prisma, MongoDB, PostgreSQL, Vite, PWA, GitHub Actions, Vercel.  
-**The Goal:** Engineering a polyglot-ready architecture with a fully automated CI/CD pipeline for rapid, zero-downtime deployments.  
-**Status:** ✅ Production-Ready with Advanced iOS PWA Integration.
-
-> "A sleek, privacy-focused financial tool that transforms raw expense data into actionable insights through high-fidelity visualizations and automated statement tracking."
-
----
-
-
-### 🚀 [SayIt](https://say-it-frontend.vercel.app/)
-**A universal language learning app built to translate and pronounce any character, word, or symbol.**
-
-**The Tech:** Vue 3, Vite, Node.js (TypeScript), Express, MongoDB, Vercel, PWA.  
-**The Goal:** Engineering a data pipeline capable of 100% fidelity for any Unicode or symbolic input.  
-**Status:** ✅ Production-Ready with Optimized CORS & Global Middleware.
-
-> "A robust powerful PWA that lets you paste text in any language—including symbol-based writing systems—to instantly get English meanings, language detection, and audio pronunciations."
+- Distributed Systems
+- Backend Architecture
+- Event-Driven Systems
+- Microservices
+- Infrastructure Engineering
+- Concurrency & Async Processing
+- Reliability & Observability
+- High-Throughput Backend Design
+- CI/CD & Deployment Automation
+- Database Performance Optimization
 
 ---
 
-#### 🚀 [Go Task CLI](https://github.com/viccy2/go-task-cli)
-**A high-performance Task Management Engine built with Go.**
-* **The Tech:** Go (Golang), JSON Persistence, GitHub Actions (CI/CD).
-* **The Goal:** Mastering backend logic and automated distribution.
-* **Status:** ✅ Fully Automated Build Pipeline.
-> "A zero-dependency CLI tool that manages tasks via a custom-built JSON storage engine."
+## Tech Stack
 
-### 📂 [FinTrack: AI-based Finance Tracker Backend. (MVP)
-Software system that allows users to upload financial documents (PDFs/Docs), automatically extracts transaction data using AI, and provides insights on how to minimize expenses.
-> **Key Challenge:** Maintaining ACID compliance while processing high-volume unstructured data.
+### Languages
+Go • TypeScript • Python • SQL • Shell
 
-### 📂 [Distributed Real-Time Messaging]
-*Focus: Concurrency & State Management*
-Implemented a stateless WebSocket architecture using Redis Pub/Sub to allow horizontal scaling across multiple nodes.
-> **Key Challenge:** Solving the "Stateful WebSocket" problem for cross-server communication.
+### Backend & Infrastructure
+Node.js • FastAPI • Flask • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins
+
+### Data & Messaging
+PostgreSQL • Redis • MongoDB • MySQL • RabbitMQ • Kafka • BullMQ
+
+### Cloud & Observability
+AWS • GCP • Prometheus • Grafana • EC2 • RDS • S3
 
 ---
 
-## 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/vaad](https://www.linkedin.com/in/vaad)
-- **Portfolio:** [vad-folio.vercel.app](https://vad-folio.vercel.app/)
-- **Email:** [aremuvictor2016@gmail.com](mailto:aremuvictor2016@gmail.com)
+# Selected Engineering Work
 
-*"Engineering isn't just about writing code; it's about designing systems that can survive the real world."* 
+## UAI Platform
+Production-grade learning and recruitment platform serving 5,000+ users across distributed services.
+
+### Engineering Highlights
+- Architected backend systems for recruiter matching, learning workflows, and payment orchestration.
+- Designed microservices-focused infrastructure with fault isolation and horizontal scalability.
+- Implemented distributed caching and optimized data-access paths for low-latency workloads.
+- Built resilient deployment pipelines supporting automated releases and rollback strategies.
+
+### Stack
+Node.js • TypeScript • PostgreSQL • Redis • Docker • Kubernetes • AWS
+
+**Platform:** https://uai.utidia.com/utidia-learning/
+
+---
+
+## Utidia
+Talent recruitment and internship matching platform focused on scalable application processing.
+
+### Engineering Highlights
+- Led backend engineering and migration toward distributed service architecture.
+- Reduced API latency through optimized PostgreSQL indexing and Redis caching strategies.
+- Built idempotent payment workflows for external payment providers.
+- Designed asynchronous background processing systems for compute-heavy operations.
+
+### Stack
+Node.js • TypeScript • PostgreSQL • Redis • Docker • Kubernetes • AWS
+
+**Platform:** https://utidia.com/
+
+---
+
+## FinTrack
+Real-time financial analytics and AI-assisted advisory system.
+
+### Engineering Highlights
+- Built concurrent transaction-processing pipelines with idempotency guarantees.
+- Engineered asynchronous financial analysis workflows for scalable recommendation generation.
+- Designed fault-tolerant processing architecture for consistency under concurrent workloads.
+- Integrated AI-based financial insight generation using LLM pipelines.
+
+### Stack
+Node.js • TypeScript • PostgreSQL • Redis • Google Gemini AI • GitHub Actions
+
+**Platform:** https://fin-track-tau-one.vercel.app/
+
+---
+
+## SayIt
+Real-time multilingual language processing and speech synthesis platform.
+
+### Engineering Highlights
+- Built concurrent processing workflows for language detection and speech generation.
+- Optimized request throughput using caching layers and worker-based processing.
+- Designed low-latency API systems for real-time text transformation workloads.
+
+### Stack
+Node.js • TypeScript • Redis • REST APIs • Speech Synthesis
+
+**Platform:** https://say-it-frontend.vercel.app/
+
+---
+
+## Event Reconciler
+Distributed event reconciliation engine for asynchronous systems.
+
+### Engineering Highlights
+- Built conflict-resolution workflows for inconsistent distributed state.
+- Implemented consistency validation and reconciliation mechanisms for concurrent event streams.
+- Designed synchronization strategies for eventual consistency scenarios.
+
+### Stack
+TypeScript • Node.js • Distributed Systems • Event-Driven Architecture
+
+**Repository:** https://github.com/viccy2/lightwork-reconciler-task-victor-david
+
+---
+
+## Go Task CLI
+High-performance task management engine written in Go.
+
+### Engineering Highlights
+- Implemented atomic file I/O operations and structured persistence workflows.
+- Built zero-dependency CLI architecture focused on reliability and execution speed.
+- Automated testing and release workflows using GitHub Actions.
+
+### Stack
+Go • JSON Persistence • Systems Programming • GitHub Actions
+
+**Repository:** https://github.com/viccy2/go-task-cli
+
+---
+
+## Engineering Interests
+
+Distributed Systems • Infrastructure Engineering • Reliability Engineering • Event-Driven Architectures • Platform Engineering • AI Systems Infrastructure
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/vaad
+- Portfolio: https://vad-portfolio.vercel.app
+- Email: aremuvictor2016@gmail.com
+
+---
+
+> “Reliable systems are engineered intentionally — scalability, fault tolerance, and resilience are architectural decisions.”
