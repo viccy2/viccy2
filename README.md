@@ -10,18 +10,21 @@ Strong background in distributed systems design, event-driven architectures, sys
 
 ---
 
-## 🛠️ Tech Stack
+## Tecchnical Skills
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages & Frameworks** | Go, TypeScript (Node.js), Python (FastAPI, Flask), SQL, REST APIs, WebSockets |
-| **DevOps & Cloud** | AWS, GCP, Kubernetes (K8s), Docker, Terraform (IaC), GitHub Actions, Jenkins, Prometheus, Grafana |
-| **Data & Messaging** | PostgreSQL, MySQL, Redis, MongoDB, RabbitMQ, Kafka, BullMQ |
-| **Systems & Architecture** | Distributed Systems, Microservices, Event-Driven Architecture, Idempotency Patterns, Async Processing, Fault-Tolerant Systems |
+**Languages:** `Go`, `Python`, `TypeScript`, `SQL`
+
+**Infrastructure:** `Kubernetes`, `Docker`, `Terraform`, `AWS`, `GCP`
+
+**Data Systems:** `PostgreSQL`, `MySQL`, `Redis`, `MongoDB`, `Kafka`, `RabbitMQ`
+
+**Backend:** `Distributed Systems`, `Microservices`, `Event-Driven Architecture`, `REST APIs`, `WebSockets`, `Async Processing`, `Idempotency`, `Fault Tolerance`
+
+**Observability & CI/CD:** `Prometheus`, `Grafana`, `GitHub Actions`, `Jenkins`
 
 ---
 
-# Selected Engineering Work
+# Selected Engineering Works 
 
 ###  [UAI Platform](https://uai.utidia.com/utidia-learning/)
 
