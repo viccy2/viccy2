@@ -4,9 +4,8 @@
 
 Software Engineer focused on architecting and building scalable backend systems, distributed architectures, and production infrastructure.
 
-Experienced in building high-throughput systems, including inference pipelines processing 10k+ daily evaluations and backend services supporting 10k+ DAU with zero-downtime deployment strategies.
+Experienced in building high-throughput systems, including inference pipelines processing 10k+ daily evaluations and backend services supporting 10k+ DAU with zero-downtime deployment across modern cloud environments.
 
-Strong background in distributed systems design, event-driven architectures, system reliability, asynchronous processing, infrastructure automation, observability, and performance optimization using Go, TypeScript, and Python.
 
 ---
 
