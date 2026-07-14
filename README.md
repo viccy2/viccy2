@@ -25,24 +25,6 @@ Experienced in building high-throughput systems, including inference pipelines p
 
 # Selected Engineering Works 
 
-###  [UAI Platform](https://uai.utidia.com/utidia-learning/)
-
-**Production-grade learning and recruitment platform serving 5,000+ users across distributed services.**
-
-> **Key Highlight**
-> Architected backend systems for recruiter matching, learning workflows, payment orchestration, and distributed service communication.
-
-> **Key Challenge Solved**
-> Designed horizontally scalable microservices infrastructure with fault isolation, distributed caching, and resilient deployment workflows for high-throughput workloads.
-
-**Technologies:** `Node.js`, `TypeScript`, `Microservices`, `PostgreSQL`, `Redis`, `Docker`, `Kubernetes`, `AWS (EC2, S3, RDS)`, `Stripe`, `Paystack`, `CI/CD (GitHub Actions)`
-
-<a href="https://uai.utidia.com/utidia-learning/">
-  <img src="https://img.shields.io/badge/View_Platform-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
----
-
 ###  [Utidia](https://utidia.com/)
 
 **Talent recruitment and internship matching platform focused on scalable application processing.**
@@ -56,6 +38,24 @@ Experienced in building high-throughput systems, including inference pipelines p
 **Technologies:** `Node.js`, `TypeScript`, `Microservices`, `PostgreSQL`, `Redis`, `Docker`, `Kubernetes`, `AWS (EC2, S3, RDS)`, `Stripe`, `Paystack`, `CI/CD (GitHub Actions)`
 
 <a href="https://utidia.com/">
+  <img src="https://img.shields.io/badge/View_Platform-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+---
+
+###  [UAI Platform](https://uai.utidia.com/utidia-learning/)
+
+**Production-grade learning and recruitment platform serving 5,000+ users across distributed services.**
+
+> **Key Highlight**
+> Architected backend systems for recruiter matching, learning workflows, payment orchestration, and distributed service communication.
+
+> **Key Challenge Solved**
+> Designed horizontally scalable microservices infrastructure with fault isolation, distributed caching, and resilient deployment workflows for high-throughput workloads.
+
+**Technologies:** `Node.js`, `TypeScript`, `Microservices`, `PostgreSQL`, `Redis`, `Docker`, `Kubernetes`, `AWS (EC2, S3, RDS)`, `Stripe`, `Paystack`, `CI/CD (GitHub Actions)`
+
+<a href="https://uai.utidia.com/utidia-learning/">
   <img src="https://img.shields.io/badge/View_Platform-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
