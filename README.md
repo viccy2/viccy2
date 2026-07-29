@@ -1,41 +1,27 @@
 # Victor Aremu David 👋
 
-### Software Engineer | Distributed Systems & Backend Architecture
+I’m a backend engineer specializing in distributed systems, transactional state machines, and cloud infrastructure. Most of my work involves writing Go, Python, and TypeScript, optimizing database performance, and building resilient async architecture.
 
-Software Engineer focused on architecting and building scalable backend systems, distributed architectures, and production infrastructure.
-
-Experienced in building high-throughput systems, including inference pipelines processing 10k+ daily evaluations and backend services supporting 10k+ DAU with zero-downtime deployment across modern cloud environments.
-
+Over the past few years, I’ve engineered backend infrastructure for platforms supporting 10k+ daily users, deployed CV inference pipelines handling 10,000+ daily evaluations at 99.9% uptime, and managed zero-downtime infrastructure scaled with Kubernetes and Terraform.
 
 ---
 
-## Tecchnical Skills
+### 🛠 Tech Stack
 
-**Languages:** `Go`, `Python`, `TypeScript`, `SQL`
-
-**Infrastructure:** `Kubernetes`, `Docker`, `Terraform`, `AWS`, `GCP`
-
-**Data Systems:** `PostgreSQL`, `MySQL`, `Redis`, `MongoDB`, `Kafka`, `RabbitMQ`
-
-**Backend:** `Distributed Systems`, `Microservices`, `Event-Driven Architecture`, `REST APIs`, `WebSockets`, `Async Processing`, `Idempotency`, `Fault Tolerance`
-
-**Observability & CI/CD:** `Prometheus`, `Grafana`, `GitHub Actions`, `Jenkins`
+* **Languages:** Go, Python, TypeScript, SQL
+* **Data & Storage:** PostgreSQL, Redis, MySQL, MongoDB
+* **Messaging & Queues:** Kafka, RabbitMQ, BullMQ
+* **Infrastructure:** Kubernetes, Docker, Terraform, AWS, GCP, Nginx, GitHub Actions
+* **Observability:** Prometheus, Grafana
 
 ---
 
-# Selected Engineering Works 
+### Selected Technical Work
 
-###  [Utidia](https://utidia.com/)
-
-**Talent recruitment and internship matching platform focused on scalable application processing.**
-
-> **Key Highlight**
-> Led backend engineering and migration from monolithic architecture toward distributed backend services.
-
-> **Key Challenge Solved**
-> Reduced API latency through optimized PostgreSQL indexing and Redis caching while implementing idempotent payment workflows for reliable distributed transaction processing.
-
-**Technologies:** `Node.js`, `TypeScript`, `Microservices`, `PostgreSQL`, `Redis`, `Docker`, `Kubernetes`, `AWS (EC2, S3, RDS)`, `Stripe`, `Paystack`, `CI/CD (GitHub Actions)`
+#### [Utidia](https://utidia.com/) — Talent Recruitment & Matching Platform
+* **Architecture:** Led the backend migration from a monolithic Node.js codebase to a microservice architecture to decouple application processing from user management.
+* **Database & Cache:** Cut API response times by ~30% by restructuring slow PostgreSQL queries with composite indexes and implementing a Redis caching layer for read-heavy endpoints.
+* **Payments:** Designed idempotent payment webhooks (Paystack/Stripe) using Redis locks to eliminate duplicate transactions caused by network retries.
 
 <a href="https://utidia.com/">
   <img src="https://img.shields.io/badge/View_Platform-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -43,35 +29,9 @@ Experienced in building high-throughput systems, including inference pipelines p
 
 ---
 
-###  [UAI Platform](https://uai.utidia.com/utidia-learning/)
-
-**Production-grade learning and recruitment platform serving 5,000+ users across distributed services.**
-
-> **Key Highlight**
-> Architected backend systems for recruiter matching, learning workflows, payment orchestration, and distributed service communication.
-
-> **Key Challenge Solved**
-> Designed horizontally scalable microservices infrastructure with fault isolation, distributed caching, and resilient deployment workflows for high-throughput workloads.
-
-**Technologies:** `Node.js`, `TypeScript`, `Microservices`, `PostgreSQL`, `Redis`, `Docker`, `Kubernetes`, `AWS (EC2, S3, RDS)`, `Stripe`, `Paystack`, `CI/CD (GitHub Actions)`
-
-<a href="https://uai.utidia.com/utidia-learning/">
-  <img src="https://img.shields.io/badge/View_Platform-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
----
-
-### [FinTrack](https://fin-track-tau-one.vercel.app/)
-
-**Real-time financial analytics and AI-assisted advisory system.**
-
-> **Key Highlight**
-> Built concurrent transaction-processing pipelines with asynchronous AI-powered financial analysis workflows.
-
-> **Key Challenge Solved**
-> Engineered fault-tolerant processing architecture with idempotency guarantees to maintain consistency across concurrent financial operations and recommendation pipelines.
-
-**Technologies:** `Node.js`, `TypeScript`, `PostgreSQL`, `Redis`, `Google Gemini AI`, `GitHub Actions`, `Vercel`
+#### [FinTrack](https://fin-track-tau-one.vercel.app/) — Concurrent Financial Analytics Engine
+* **Concurrency:** Built transaction-processing pipelines in TypeScript/Node.js, isolating async background processing from the primary REST API thread using message queues.
+* **Reliability:** Implemented transactional outbox patterns and idempotency keys across financial workflows to ensure state consistency during partial network failures.
 
 <a href="https://fin-track-tau-one.vercel.app/">
   <img src="https://img.shields.io/badge/View_Platform-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -79,35 +39,9 @@ Experienced in building high-throughput systems, including inference pipelines p
 
 ---
 
-###  [SayIt](https://say-it-frontend.vercel.app/)
-
-**Real-time multilingual language processing and speech synthesis platform.**
-
-> **Key Highlight**
-> Built real-time language detection and speech synthesis workflows supporting multilingual and symbolic text processing.
-
-> **Key Challenge Solved**
-> Optimized request throughput and inference latency using caching strategies and worker-based concurrent processing pipelines.
-
-**Technologies:** `Node.js`, `TypeScript`, `Redis`, `REST APIs`, `Speech Synthesis`
-
-<a href="https://say-it-frontend.vercel.app/">
-  <img src="https://img.shields.io/badge/View_Platform-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
----
-
-###  [Event Reconciler](https://github.com/viccy2/lightwork-reconciler-task-victor-david)
-
-**Distributed event reconciliation engine for asynchronous systems.**
-
-> **Key Highlight**
-> Built distributed reconciliation workflows for resolving inconsistent state across concurrent event streams.
-
-> **Key Challenge Solved**
-> Implemented consistency validation, conflict resolution logic, and synchronization mechanisms for eventual consistency scenarios.
-
-**Technologies:** `TypeScript`, `Node.js`, `Distributed Systems`, `Event-Driven Architecture`
+#### [Event Reconciler](https://github.com/viccy2/lightwork-reconciler-task-victor-david) — Distributed Event Reconciliation Engine
+* **Eventual Consistency:** Designed a lightweight reconciliation service in TypeScript to detect and resolve out-of-order state mutations across concurrent event streams.
+* **Conflict Resolution:** Implemented deterministic conflict-resolution rules using vector clocks/timestamps to reconcile mismatched entity states.
 
 <a href="https://github.com/viccy2/lightwork-reconciler-task-victor-david">
   <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -115,17 +49,8 @@ Experienced in building high-throughput systems, including inference pipelines p
 
 ---
 
-###  [Go Task CLI](https://github.com/viccy2/go-task-cli)
-
-**High-performance task management engine written in Go.**
-
-> **Key Highlight**
-> Built a zero-dependency CLI task engine focused on reliability, execution speed, and lightweight system-level operations.
-
-> **Key Challenge Solved**
-> Implemented atomic file I/O operations and structured persistence workflows to guarantee consistency and prevent data corruption.
-
-**Technologies:** `Go`, `Systems Programming`, `Atomic I/O`, `GitHub Actions`
+#### [Go Task CLI](https://github.com/viccy2/go-task-cli) — Task Management Engine in Go
+* **Data Integrity:** Built a zero-dependency CLI tool in Go using atomic file write-and-rename operations (`os.Rename`) to prevent JSON state corruption during process termination.
 
 <a href="https://github.com/viccy2/go-task-cli">
   <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -133,17 +58,11 @@ Experienced in building high-throughput systems, including inference pipelines p
 
 ---
 
-## 📫 Connect with me
+### 📫 Contact
 
 <a href="https://linkedin.com/in/vaad">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
 <a href="mailto:aremuvictor2016@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
----
-
-*"Reliable systems are engineered intentionally — scalability, fault tolerance, and resilience are architectural decisions."*
