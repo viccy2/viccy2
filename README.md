@@ -5,7 +5,7 @@
 I build resilient backend systems, distributed architectures, and production infrastructure designed for scale, fault tolerance, and zero-downtime execution.
 
 **Scale Highlights:**
-* Engineured inference pipelines processing **10k+ daily evaluations**.
+* Engineered inference pipelines processing **10k+ daily evaluations**.
 * Maintained backend services supporting **10k+ DAU** across multi-cloud environments.
 
 ---
