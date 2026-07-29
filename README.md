@@ -40,20 +40,6 @@ I build resilient backend systems, distributed architectures, and production inf
 
 ---
 
-### 🎓 [UAI Platform](https://uai.utidia.com/utidia-learning/)
-*Distributed learning and recruitment platform serving 5,000+ active users.*
-
-* **Architecture Design:** Designed horizontally scalable microservices for recruiter matching, asynchronous learning workflows, and inter-service communication.
-* **Fault Isolation:** Built isolated microservices with distributed caching and automated CI/CD workflows to handle high-throughput traffic spikes safely.
-
-`Node.js` `TypeScript` `Microservices` `PostgreSQL` `Redis` `Docker` `Kubernetes` `AWS` `CI/CD`
-
-<a href="https://uai.utidia.com/utidia-learning/">
-  <img src="https://img.shields.io/badge/View_Platform-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
----
-
 ### 📊 [FinTrack](https://fin-track-tau-one.vercel.app/)
 *Real-time financial analytics engine with asynchronous advisory workflows.*
 
