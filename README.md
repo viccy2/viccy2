@@ -7,6 +7,7 @@ I’m a software engineer focused on architecting and building scalable backend 
 **Production Scale At A Glance:**
 * Engineered inference pipelines processing **10k+ daily evaluations**.
 * Scaled and maintained backend services supporting **10k+ DAU** across multi-cloud infrastructure.
+* Also, designed and built production systems spanning payments, inventory management, computer vision and business operations.
 
 ---
 
