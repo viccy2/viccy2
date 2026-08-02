@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Systems, Distributed Systems & Cloud Infrastructure
 
-I build resilient backend systems, distributed architectures, and production infrastructure designed for scale, fault tolerance, and zero-downtime execution.
+I’m a software engineer focused on architecting and building scalable backend systems, distributed architectures, and production infrastructure — the layer of products most people never see directly, but has to hold up under real load.
 
 **Production Scale At A Glance:**
 * Engineered inference pipelines processing **10k+ daily evaluations**.
