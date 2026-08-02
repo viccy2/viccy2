@@ -11,7 +11,7 @@ I’m a software engineer focused on architecting and building scalable backend 
 
 ---
 
-## Technical Expertise
+## Skills
 
 * **Languages:** `Go`, `Python`, `TypeScript`, `SQL`
 * **DevOps & Cloud Infrastructure:** `Kubernetes`, `Docker`, `Terraform`, `AWS`, `GCP`, `CI/CD (GitHub Actions, Jenkins)`, `Prometheus`, `Grafana`
