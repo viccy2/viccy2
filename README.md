@@ -1,4 +1,4 @@
-Software Engineer focused on architecting and building scalable backend systems, distributed architectures, and production infrastructure — the layer of products most people never see directly, but has to hold up under real load.
+Software Engineer focused on architecting and building resilient, scalable backend and distributed systems for production-grade cloud environments — the layer of products most people never see directly, but has to hold up under real load.
 
 **Production Scale At A Glance:**
 * Engineered inference pipelines processing **10k+ daily evaluations**.
