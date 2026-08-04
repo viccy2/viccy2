@@ -1,4 +1,4 @@
-Software Engineer focused on architecting and building resilient, scalable backend and distributed systems that power production workloads, enabling zero-downtime deployments across modern cloud environments—the layer of software most users never see, but every reliable product depends on.
+Software Engineer focused on architecting and building resilient, scalable backend and distributed systems that power production workloads, enabling zero-downtime deployments across modern cloud environments — the layer of software most users never see, but every reliable product depends on.
 
 **Production Impact :**
 * Engineered inference pipelines processing **10k+ daily evaluations**.
