@@ -2,7 +2,7 @@ Software Engineer focused on architecting and building resilient, scalable backe
 
 **Production Impact :**
 * Engineered inference pipelines processing **10k+ daily evaluations**.
-* Built and scaled backend services supporting **10k+ DAU** across modern cloud cloud infrastructure.
+* Built and scaled backend services supporting **10k+ DAU** across modern cloud infrastructure.
 * Designed and delivered production systems spanning payments, inventory management, computer vision and business operations.
 
 ---
