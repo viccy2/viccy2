@@ -1,9 +1,9 @@
 Software Engineer focused on architecting and building resilient, scalable backend and distributed systems that power production workloads, enabling zero-downtime deployments across modern cloud environments — the layer of software most users never see, but every reliable product depends on.
 
 **Production Impact :**
-* Engineered inference pipelines processing **10k+ daily evaluations**.
+* Built a production-scale **YOLO-based computer vision system** that automated nationwide compliance inspections, processing **10,000+ daily evaluations** with **95% detection accuracy**.
 * Built and scaled backend services supporting **10k+ DAU** across modern cloud infrastructure.
-* Designed and delivered production systems spanning payments, inventory management, computer vision and business operations.
+* Engineered an inventory management platform supporting **150,000+ automotive parts**, automating bulk inventory uploads through an **image-matching pipeline** that linked product images to inventory records..
 
 ---
 
