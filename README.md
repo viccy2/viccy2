@@ -9,12 +9,13 @@ Architecting and building resilient, scalable & reliable systems that power prod
 *  Designed, built and scaled production systems spanning **production systems** spanning **payments**, **inventory management**, **computer vision**, and **business operations**, building scalable software platforms that transformed complex workflows into reliable, technology-driven processes.
 
 **Core Stack & Competencies :** <br>
-* **Languages :** Go • TypeScript • Python • SQL <br>
-* **Backend :** Node.js • Express.js • NestJS • FastAPI • Flask <br>
-* **Databases :** PostgreSQL • MySQL • MongoDB • Redis <br>
-* **Cloud & DevOps :** AWS • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • Linux <br>
-* **Observability** : Prometheus • Grafana <br>
-* **AI/ML :** YOLO, Open CV
+* **Languages :** • Go • Python • TypeScript • JavaScript • SQL <br>
+* **Backend :** • Node.js • Express.js • NestJS • Flask • FastAPI • REST APIs • Microservices <br>
+* **AI/ML :** • YOLO • OpenCV • Computer Vision  • ML Inference  <br> 
+* **Databases :** • PostgreSQL • MySQL • MongoDB • Redis <br>
+* **Cloud & Infrastructure :** • AWS • Docker • Kubernetes • Terraform • Linux <br>
+* **DevOps & Observability** : • GitHub Actions • Jenkins • CI/CD  • Prometheus • Grafana  <br>
+
 
 
 ---
