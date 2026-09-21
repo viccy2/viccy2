@@ -1,4 +1,6 @@
-Software Engineer focused on backend systems, distributed systems & production engineering. Architecting and building resilient, scalable & reliable systems that power production workloads, with zero-downtime deployments across modern cloud environments — the layer of software most users never see, but every reliable product depends on.
+Software Engineer focused on backend systems, distributed systems & production engineering. 
+
+Architecting and building resilient, scalable & reliable systems that power production workloads, with zero-downtime deployments across modern cloud environments — the layer of software most users never see, but every reliable product depends on.
 
 **Selected Engineering Impact :**
 *  Engineered production-scale **YOLO-based computer vision system** automating nationwide compliance inspections, processing **10,000+ daily evaluations** with **95% detection accuracy** and replacing manual inspection workflows at scale.
