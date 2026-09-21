@@ -1,10 +1,10 @@
 Software Engineer focused on backend systems, distributed systems & production engineering. Architecting and building resilient, scalable & reliable systems that power production workloads, with zero-downtime deployments across modern cloud environments — the layer of software most users never see, but every reliable product depends on.
 
 **Selected Engineering Impact :**
-*  Engineered production-scale **YOLO-based computer vision system** automating nationwide compliance inspections, processing **10,000+ daily evaluations** with **95% detection accuracy**.
-* Built and scaled backend services supporting **10k+ DAU** engineered for reliability and high availability across modern cloud environments.
-* Engineered inventory management and internal operations systems powering **West Africa’s largest Toyota and Lexus automotive parts supplier** managing **150,000+ automotive parts** across Toyota and Lexus model series while automating critical operational workflows.
-*  Designed and built **production systems** spanning **payments**, **inventory management**, **computer vision**, and **business operations**.
+*  Engineered production-scale **YOLO-based computer vision system** automating nationwide compliance inspections, processing **10,000+ daily evaluations** with **95% detection accuracy** and replacing manual inspection workflows at scale.
+* Built and scaled highly available backend infrastructure supporting **10,000+ DAU** delivering resilient services designed for reliability, scalability, and continuous operation across modern cloud environments.
+* Engineered an enterprise-grade inventory and operations systems powering **West Africa’s largest Toyota and Lexus automotive parts supplier** managing **150,000+ automotive parts** across multiple vehicle model series and automating critical operational workflows.
+*  Designed, built and scaled production systems spanning **production systems** spanning **payments**, **inventory management**, **computer vision**, and **business operations**, building scalable software platforms that transformed complex workflows into reliable, technology-driven processes.
 
 ---
 
