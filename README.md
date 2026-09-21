@@ -8,6 +8,15 @@ Architecting and building resilient, scalable & reliable systems that power prod
 * Engineered an enterprise-grade inventory and operations systems powering **West Africa’s largest Toyota and Lexus automotive parts supplier** managing **150,000+ automotive parts** across multiple vehicle model series and automating critical operational workflows.
 *  Designed, built and scaled production systems spanning **production systems** spanning **payments**, **inventory management**, **computer vision**, and **business operations**, building scalable software platforms that transformed complex workflows into reliable, technology-driven processes.
 
+**Core Stack & Competencies : **
+• **Languages :** Go • TypeScript • Python • SQL
+• **Backend :** Node.js • Express.js • NestJS • FastAPI • Flask
+• **Databases :** PostgreSQL • MySQL • MongoDB • Redis
+• **Cloud & DevOps :** AWS • Docker • Kubernetes • Terraform • GitHub Actions • Jenkins • Linux
+• **Observability** : Prometheus • Grafana
+• **AI/ML :** YOLO, Open CV
+
+
 ---
 
 ## 📫 Connect
