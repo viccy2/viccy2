@@ -11,7 +11,7 @@ Architecting and building resilient, scalable & reliable systems that power prod
 **Core Stack & Competencies :** <br>
 * **Languages :** • Go • Python • TypeScript • JavaScript • SQL <br>
 * **Backend :** • Node.js • Express.js • NestJS • Flask • FastAPI • REST APIs • Microservices <br>
-* **AI/ML :** • YOLO • OpenCV • Computer Vision  • ML Inference  <br> 
+* **AI & Machine Learning :** • LLMs • Generative AI • Prompt Engineering • Context Engineering • AI Agents • RAG • LLM Integration • Computer Vision • ML Inference <br> 
 * **Databases :** • PostgreSQL • MySQL • MongoDB • Redis <br>
 * **Cloud & Infrastructure :** • AWS • Docker • Kubernetes • Terraform • Linux <br>
 * **DevOps & Observability** : • GitHub Actions • Jenkins • CI/CD  • Prometheus • Grafana  <br>
