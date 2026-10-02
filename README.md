@@ -1,6 +1,6 @@
 # Victor David
 
-**Software Engineer | Backend & Distributed Systems | Production Systems at Scale**
+**Software Engineer | Backend, Distributed & Cloud.**
 
 Software Engineer specializing in backend systems, distributed systems, and production engineering.
 
