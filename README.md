@@ -1,7 +1,5 @@
 # Victor David
 
-**Software Engineer | Backend, Distributed & Cloud.**
-
 Software Engineer specializing in backend systems, distributed systems, and production engineering.
 
 Architecting and building scalable, production-grade systems across payments, inventory management, computer vision, business operations, and AI-powered applications.
