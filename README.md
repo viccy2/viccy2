@@ -1,31 +1,43 @@
 # Victor David
 
-**Software Engineer | Backend & Distributed Systems**
+**Software Engineer — Backend & Distributed Systems**  
+*Building resilient, high-throughput production infrastructure, concurrency-safe payment pipelines, and distributed ML inference systems.*
 
-Software Engineer focused on **backend systems, distributed systems, and production engineering**.
+[Portfolio](https://vad.name.ng) • [LinkedIn](https://linkedin.com/in/vaad) • [Email](mailto:aremuvictor2016@gmail.com) • **Open to Global Roles & Visa Sponsorship (US H-1B, UK, EU)**
 
-Architecting and building scalable, production-grade systems across **payments, inventory management, computer vision, business operations, and AI-powered applications**.
+---
 
-## Selected Engineering Impact
+### 💥 Selected Engineering Impacts
 
-* Engineered a production-scale **computer vision system** automating nationwide compliance inspections, processing **10,000+ evaluations daily** with **95% detection accuracy**, replacing manual inspection workflows at scale.
-* Built and scaled **backend systems supporting 10,000+ daily active users**, achieving **99.9% uptime** through horizontally scalable services, automated deployments, and production observability.
-* Designed and built production systems spanning **payments, inventory, computer vision, and business operations**, translating complex workflows into reliable, scalable software systems.
+* **Re-architected** a monolithic backend into distributed microservices utilizing Redis caching strategies and PostgreSQL query optimizations, **slashing P99 API latency by 30% and boosting system throughput by 50% across 10,000+ DAU**, eliminating server crashes during traffic spikes and maintaining 99.9% availability.
 
-## Core Technologies
+* **Deployed** a production YOLO computer vision pipeline across 12+ autoscaling Kubernetes microservices, **processing 10,000+ daily evaluations at 95% detection accuracy**, automating nationwide compliance inspections and cutting manual audit overhead by ~80%.
 
-**Languages:** Go • Python • TypeScript • SQL
+* **Engineered** concurrency-safe inventory locking mechanisms and idempotent payment pipelines across 150,000+ SKUs, **eliminating 100% of overselling race conditions and duplicate payment errors**, safeguarding multi-gateway financial transactions under high concurrency.
 
-**Backend & Systems:** Node.js • Express.js • Flask • FastAPI • REST APIs • Microservices
+---
 
-**Databases & Messaging:** PostgreSQL • Redis • MongoDB • RabbitMQ • BullMQ
+### 🏗️ Systems Design Focus
 
-**Cloud & Infrastructure:** AWS • Docker • Kubernetes • Terraform • Linux • Nginx
+* **High-Concurrency Systems:** Distributed locking, idempotent request handlers, and race-condition prevention in financial and inventory domains.
+* **Event-Driven Architectures:** Asynchronous task processing pipelines using RabbitMQ, BullMQ, and Celery to decouple compute-heavy workloads from API request loops.
+* **Applied Machine Learning Infrastructure:** Productionizing ML/CV models (YOLO, OpenCV) with low-latency inference pipelines and autoscaling orchestration.
 
-**CI/CD & Observability:** GitHub Actions • Prometheus • Grafana
+---
 
-**AI/ML & Generative AI:** LLMs • Generative AI • RAG • AI Agents • Prompt Engineering • Context Engineering • LLM Integration • YOLO • OpenCV • ML Inference • Computer Vision
+### 🛠️ Technical Stack
 
-## Connect
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Go, Python, TypeScript, SQL |
+| **Backend & Systems** | Node.js, Express.js, FastAPI, Flask, Distributed Systems, Microservices |
+| **Databases & Queues** | PostgreSQL, Redis, MongoDB, RabbitMQ, BullMQ |
+| **Cloud & Infrastructure** | AWS, Docker, Kubernetes, Terraform, Linux, Nginx |
+| **Observability & CI/CD** | Prometheus, Grafana, GitHub Actions, Jenkins |
+| **Applied ML & Vision** | YOLO, OpenCV, ML Inference Pipelines |
 
-[LinkedIn](https://linkedin.com/in/vaad) • [Portfolio](https://vad.name.ng) • [Email](mailto:aremuvictor2016@gmail.com)
+---
+
+<p align="center">
+  <sub>Designed for performance and scale. Code available across public repositories below.</sub>
+</p>
