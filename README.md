@@ -12,7 +12,7 @@ Building **high-throughput backend systems, distributed services, payment infras
 
 * **Distributed Systems:** Led migration from a monolith to independently deployable microservices behind an API gateway, **reducing API latency by 50%** and enabling independent horizontal scaling.
 
-* **Backend & Payments:** Engineered inventory and payment systems managing **150,000+ automotive parts** and **₦1B+ annual transaction volume**, with PostgreSQL, Redis, idempotent payments, and concurrency-safe checkout.
+* **Backend & Payments:** Engineered inventory and payment systems managing **150,000+ automotive parts** and **₦500M+ annual transaction volume**, with PostgreSQL, Redis, idempotent payments, and concurrency-safe checkout.
 
 * **ML & Infrastructure:** Designed and deployed a YOLO-based computer vision system processing **10,000+ evaluations daily at 90% detection accuracy**, with Kubernetes autoscaling and production observability.
 
