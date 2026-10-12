@@ -1,8 +1,8 @@
 # Victor David
 
-**Software Engineer — Backend, Distributed Systems & Infrastructure**
+**Software Engineer — Distributed Systems, Cloud Infrastructure & Applied AI**
 
-Building **high-throughput backend systems, distributed services, payment infrastructure, and production ML platforms.**
+Building **production systems that run real businesses**: distributed services, payment infrastructure, and computer vision.
 
 [Portfolio](https://vad.name.ng) • [LinkedIn](https://linkedin.com/in/vaad) • [Email](mailto:aremuvictor2016@gmail.com) • **Open to Global Roles & Visa Sponsorship**
 
@@ -10,11 +10,11 @@ Building **high-throughput backend systems, distributed services, payment infras
 
 ## ⚡ Engineering Impact
 
-* **Distributed Systems:** Led migration from a monolith to independently deployable microservices behind an API gateway, **reducing API latency by 50%** and enabling independent horizontal scaling.
+* **Distributed Systems:** Led 10 engineers in migrating a monolith to **independently deployable microservices** behind an API gateway, so each service could scale on its own.
 
-* **Backend & Payments:** Engineered inventory and payment systems managing **150,000+ automotive parts** and **₦500M+ annual transaction volume**, with PostgreSQL, Redis, idempotent payments, and concurrency-safe checkout.
+* **Payments & Platform:** Built the inventory, analytics, and payments platform for a leading Toyota and Lexus parts supplier. This includes a PostgreSQL inventory of **150,000+ parts** and the idempotent, concurrency-safe payments architecture behind most of the company's **₦500M+ in annual transactions**.
 
-* **ML & Infrastructure:** Designed and deployed a YOLO-based computer vision system processing **10,000+ evaluations daily at 90% detection accuracy**, with Kubernetes autoscaling and production observability.
+* **Computer Vision & Infrastructure:** Built and deployed a YOLO and OpenCV computer vision system for **nationwide compliance inspections**, running **10,000+ evaluations a day at 95% detection accuracy**, with Kubernetes autoscaling holding **99.9% availability** and Terraform-managed infrastructure across 12+ services on AWS.
 
 ---
 
@@ -36,4 +36,4 @@ Building **high-throughput backend systems, distributed services, payment infras
 
 ## 🎯 Focus
 
-**Backend Engineering · Distributed Systems · Infrastructure · Cloud · Performance · Production Reliability**
+**Distributed Systems · Cloud Infrastructure · Payments · Applied AI · Performance · Production Reliability**
