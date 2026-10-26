@@ -1,6 +1,6 @@
 # Victor David
 
-**Software Engineer — Distributed Systems, Cloud Infrastructure & Applied AI**
+**Software Engineer • Distributed Systems, Cloud Infrastructure & Applied AI**
 
 Building **production systems that run real businesses**: distributed services, payment infrastructure, and computer vision.
 
