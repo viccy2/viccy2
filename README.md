@@ -22,13 +22,13 @@ Building **production systems that run real businesses**: distributed services, 
 
 **Languages:** Go · Python · TypeScript · SQL
 
-**Backend:** Node.js · Express.js · FastAPI · Flask · REST APIs · Microservices
+**Backend & APIs:** Node.js · Express.js · FastAPI · Flask · REST APIs · Microservices · API Gateways
 
-**Data & Messaging:** PostgreSQL · Redis · MongoDB · RabbitMQ · BullMQ
+**Data & Messaging:** PostgreSQL · Redis · MongoDB · RabbitMQ · BullMQ · Celery
 
 **Cloud & Infrastructure:** AWS · Docker · Kubernetes · Terraform · Linux · Nginx
 
-**CI/CD & Observability:** GitHub Actions · Jenkins · Prometheus · Grafana
+**CI/CD, Testing & Observability:** GitHub Actions · Jenkins · pytest · Postman · Prometheus · Grafana
 
 **AI/ML:** YOLO · OpenCV · ML Inference · Computer Vision
 
