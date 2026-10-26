@@ -12,7 +12,7 @@ Building **production systems that run real businesses**: distributed services, 
 
 * **Distributed Systems:** Led 10 engineers in migrating a monolith to **independently deployable microservices** behind an API gateway, so each service could scale on its own.
 
-* **Payments & Platform:** Built the inventory, analytics, and payments platform for a leading Toyota and Lexus parts supplier. This includes a PostgreSQL inventory of **150,000+ parts** and the idempotent, concurrency-safe payments architecture behind most of the company's **₦500M+ in annual transactions**.
+* **Payments & Platform:** Built the inventory, analytics, and payments platform for a leading Toyota and Lexus parts supplier. This includes a PostgreSQL inventory of **150,000+ autoparts** and the idempotent, concurrency-safe payments architecture behind most of the company's **₦500M+ in annual transactions**.
 
 * **Computer Vision & Infrastructure:** Built and deployed a YOLO and OpenCV computer vision system for **nationwide compliance inspections**, running **10,000+ evaluations a day at 95% detection accuracy**, with Kubernetes autoscaling holding **99.9% availability** and Terraform-managed infrastructure across 12+ services on AWS.
 
