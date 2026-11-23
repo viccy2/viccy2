@@ -1,39 +1,41 @@
 # Victor David
 
-**Software Engineer • Distributed Systems, Cloud Infrastructure & Applied AI**
+**Software Engineer | Backend Architecture & Distributed Systems | Cloud Infrastructure | Applied AI**
 
-Building **production systems that run real businesses**: distributed services, payment infrastructure, and computer vision.
+Building production systems across distributed services, commerce, payments, and computer vision.
 
-[Portfolio](https://vad.name.ng) • [LinkedIn](https://linkedin.com/in/vaad) • [Email](mailto:aremuvictor2016@gmail.com) • **Open to Global Roles & Visa Sponsorship**
+[Portfolio](https://vad.name.ng) • [LinkedIn](https://linkedin.com/in/vaad) • [Email](mailto:aremuvictor2016@gmail.com)
 
----
-
-## ⚡ Engineering Impact
-
-* **Distributed Systems:** Led 10 engineers in migrating a monolith to **independently deployable microservices** behind an API gateway, so each service could scale on its own.
-
-* **Payments & Platform:** Built the inventory, analytics, and payments platform for a leading Toyota and Lexus automobile parts supplier. This includes a PostgreSQL inventory of **150,000+ autoparts** and the idempotent, concurrency-safe payments architecture behind most of the company's **₦500M+ in annual transactions**.
-
-* **Computer Vision & Infrastructure:** Built and deployed a YOLO and OpenCV computer vision system for **nationwide compliance inspections**, running **10,000+ evaluations a day at 95% detection accuracy**, with Kubernetes autoscaling holding **99.9% availability** and Terraform-managed infrastructure across 12+ services on AWS.
+Open to global roles and visa sponsorship.
 
 ---
 
-## 🛠️ Tech Stack
+## Impact
+
+- **Distributed systems:** Led 10 engineers in migrating a monolith to independently deployable microservices behind an API gateway, so each service could scale on its own.
+
+- **Payments and platform:** Built the inventory, analytics, and payment systems for a leading Toyota and Lexus parts supplier. This includes a PostgreSQL-backed inventory of **150,000+ parts** and the idempotent, concurrency-safe payment architecture behind most of its **₦500M+ in annual transactions**.
+
+- **Computer vision and infrastructure:** Built and deployed a YOLO and OpenCV system for nationwide compliance inspections, running **10,000+ evaluations a day at 95% detection accuracy**. Kubernetes autoscaling holds **99.9% availability**, with Terraform-managed infrastructure across 12+ services on AWS.
+
+---
+
+## Stack
 
 **Languages:** Go · Python · TypeScript · SQL
 
-**Backend & APIs:** Node.js · Express.js · FastAPI · Flask · REST APIs · Microservices · API Gateways
+**Backend:** FastAPI · Node.js · REST · Microservices · API Gateways
 
-**Data & Messaging:** PostgreSQL · Redis · MongoDB · RabbitMQ · BullMQ · Celery
+**Data and messaging:** PostgreSQL · Redis · RabbitMQ · MongoDB
 
-**Cloud & Infrastructure:** AWS · Docker · Kubernetes · Terraform · Linux · Nginx
+**Cloud and infrastructure:** AWS · Docker · Kubernetes · Terraform
 
-**CI/CD, Testing & Observability:** GitHub Actions · Jenkins · pytest · Postman · Prometheus · Grafana
+**CI/CD and observability:** GitHub Actions · Prometheus · Grafana
 
-**AI/ML:** YOLO · OpenCV · ML Inference · Computer Vision
+**AI/ML:** YOLO · OpenCV · ML inference
 
 ---
 
-## 🎯 Focus
+## Currently
 
-**Distributed Systems · Cloud Infrastructure · Payments · Applied AI · Performance · Production Reliability**
+Building [MUEVE](https://mueve-f42b.onrender.com/), a multi-vendor automotive marketplace connecting vetted suppliers, workshops, and consumers across Nigeria. 
